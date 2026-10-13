@@ -9,9 +9,9 @@
 版本 2.0.1，修订于 2026 年 10 月 13 日
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/Project%20Hazelita%20(Mocha,%20cropped).png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/Project%20Hazelita%20(Latte,%20cropped).png">
-  <img alt="Project Hazelita" src="./assets/Project%20Hazelita%20(Latte,%20cropped).png">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hzlt-mocha.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hzlt-latte.png">
+  <img alt="Project Hazelita" src="./assets/banner.png">
 </picture>
 
 </div>
