@@ -232,4 +232,10 @@ QQ 内置的 AI 总结、搜索、风控等的平台功能可能不完全受 Pro
 
 ## 许可证
 
-<a href="https://github.com/LyCecilion/Project_Hazelita_Community_Guideline">Project Hazelita Community Guideline</a> © 2026 by <a href="https://github.com/LyCecilion">Project Hazelita</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<a href="https://github.com/ProjectHazelita/community-guidelines">Project Hazelita Community Guideline</a> © 2026 by <a href="https://github.com/ProjectHazelita">Project Hazelita</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>
+
+<div align="center">
+
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
+</div>
