@@ -2,17 +2,17 @@
 
 <div align="center">
 
-# Project Hazelita 社群公约
-
-**「这一路的冒险 / 感谢你和我的遇见 / 在旅途的最终点 / 会再见 / 会再见」**
-
-版本 2.0.1，修订于 2026 年 10 月 13 日
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hzlt-mocha.png">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hzlt-latte.png">
   <img alt="Project Hazelita" src="./assets/banner.png">
 </picture>
+
+# Project Hazelita 社群公约
+
+**「这一路的冒险 / 感谢你和我的遇见 / 在旅途的最终点 / 会再见 / 会再见」**
+
+版本 2.0.1，修订于 2026 年 10 月 13 日
 
 </div>
 
